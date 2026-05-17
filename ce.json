@@ -3,14 +3,6 @@
 
 {"key":"xx","name":"xx","type":3,"api":"csp_Douban","categories":["热播电视剧","热播电影","电视剧筛选","电影筛选","综艺节目"],"searchable":0},
 {"key": "腾腾┃影视","name": "腾腾📽️影视","type": 3,"api": "http://rihou.cc:88/js/drpy2.min.js","ext": "./A/腾腾.png","quickSearch":1},
-{"key": "果果┃影视","name": "果果📽️影视","type": 3,"api": "http://rihou.cc:88/js/drpy2.min.js","ext": "./A/果果.png","quickSearch":1},
-{"key": "威武┃影视","name": "威武📽️影视","type": 3,"style":{"type":"rect","ratio":1.485},"api":"./A/威武.py","ext":"http://43.248.117.123:4680","quickSearch":1},
-{"key": "布布┃影视","name": "布布📽️影视","type": 3,"style":{"type":"rect","ratio":1.33},"api":"./A/布布.js","quickSearch":1},
-{"key": "飞影┃影视","name": "飞影📽️影视","type": 3,"api": "./A/飞影.py","ext": "https://dmc.yy-fun.cc/feiapp","quickSearch":1},
-{"key": "奇迹┃影视","name": "奇迹📽️影视","type": 3,"api": "https://pan.szfx.top/down.php/08343ea7d5d8d12da1c16f9ccf03040d.js","ext": {"host": "https://pan.szfx.top/down.php/36bd674500507008e8ca7bf83f302d9b.txt","key": "whosyoudaddy5477","init": "V122","api": "2","ua": "okhttp/3.10.0"},"quickSearch":1},
-{"key": "猫头┃影视","name": "猫头📽️影视","type": 3,"api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","ext": {"host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","key": "zxPtEUDGVllIUhDB","init": "V122","api": 2,"ua": "okhttp/3.10.0"},"quickSearch":1},
-{"key": "蓝鹰┃影视","name": "蓝鹰📽️影视","type": 3,"api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","ext": {"host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt","key": "ca94b06ca359d80e","init": "V122","api": 2,"ua": "okhttp/3.10.0"},"quickSearch":1},
-
 
 
 
