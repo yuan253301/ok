@@ -1,0 +1,10 @@
+{"spider":"./A/",
+"sites":[
+
+{"key":"xx","name":"xx","type":3,"api":"csp_Douban","categories":["热播电视剧","热播电影","电视剧筛选","电影筛选","综艺节目"],"searchable":0},
+
+
+
+
+
+{"key": "配","name": "置","type": 3,"api": "csp_AweSomeGuard","indexs": 0,"style": {"type": "rect","ratio": 1.43},"ext": {"sp": "Config"}}]}
