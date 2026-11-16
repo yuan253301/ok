@@ -1,4 +1,4 @@
-{"spider": "",
+{"spider": "./A/柒豪.jar",
 "sites": [    
 {"key": "黑料","name": "黑料","type": 1,"api": "https://heiliaozyapi.com/api.php/provide/vod"},
 {"key": "杏吧","name": "杏吧","type": 1,"api": "https://json.xingba222.com/api.php/provide/vod/"},
