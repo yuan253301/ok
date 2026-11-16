@@ -1,4 +1,4 @@
-{"spider": "./A/qj329.png",
+{"spider": "",
 "sites": [    
 {"key": "黑料","name": "黑料","type": 1,"api": "https://heiliaozyapi.com/api.php/provide/vod"},
 {"key": "杏吧","name": "杏吧","type": 1,"api": "https://json.xingba222.com/api.php/provide/vod/"},
@@ -22,4 +22,5 @@
 {"key": "番茄","name": "番茄","type": 1,"api": "https://fqzy.me//api.php/provide/vod/?ac=list"},
 {"key": "仓库","name": "仓库","type": 1,"api": "https://hsckzy888.com/api.php/provide/vod/at/json"},
 {"key": "s1","name": "s1搜索","type": 0,"api": "https://www.xrbsp.com/api/xml.php"},
-{"key": "s2","name": "s2搜索","type": 0,"api": "https://www.gdlsp.com/api/xml.php"}]}
+{"key": "s2","name": "s2搜索","type": 0,"api": "https://www.gdlsp.com/api/xml.php"}],
+"lives":[{"name":"刚哥无敌","type":0,"url":"./A/jv.txt"}]
